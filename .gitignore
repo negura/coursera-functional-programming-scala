@@ -1,0 +1,6 @@
+.cache
+lib_managed/
+project/project/target/
+project/target/
+recitations/
+target/
