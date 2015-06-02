@@ -1,6 +1,11 @@
 .cache
-lib_managed/
-project/project/target/
-project/target/
-recitations/
-target/
+recfun/lib_managed/
+recfun/project/target/
+recfun/project/project/target/
+recfun/recitations/
+recfun/target/
+funsets/lib_managed/
+funsets/project/target/
+funsets/project/project/target/
+funsets/recitations/
+funsets/target/
